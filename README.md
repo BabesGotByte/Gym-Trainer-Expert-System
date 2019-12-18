@@ -33,6 +33,12 @@ Swing is used to create the user ineterface. <br/>
 4) Run the Runjess.java file. It will show the input GUI and ask for inputs.<br/>
 5) Fill the respective input fields and hit submit button. Expert system will show the output.<br/>
 
+## User Interface
+
+<img src="Images/R1.png" alt="drawing" width="800" height="400"/>
+<img src="Images/R2.png" alt="drawing" width="800" height="400"/>
+<img src="Images/R3.png" alt="drawing" width="800" height="200"/>
+
 ## More
 More details on the project can be found in the documentation present inside the repo. Check out the PPT and the demo video for more.
 
